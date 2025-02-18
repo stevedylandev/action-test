@@ -1,0 +1,5 @@
+{
+  "domain": "action-test",
+  "buildCommand": "pnpm run build",
+  "buildDir": "dist"
+}
